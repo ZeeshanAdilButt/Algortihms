@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph-01-DepthFirstSearch",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph-02-MST-Prim", "Graph-02-MST-Prim\Graph-02-MST-Prim.csproj", "{72130326-747C-4B5D-9B46-8511A7A766F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashset-Array-01-SubaAray-with-0-Sum", "Hashset-Array-01-SubaAray-with-0-Sum\Hashset-Array-01-SubaAray-with-0-Sum.csproj", "{BCA41DBC-DF95-4083-9314-5EA2FEB2E437}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashset-Array-01-SubaAray-with-0-Sum", "Hashset-Array-01-SubaAray-with-0-Sum\Hashset-Array-01-SubaAray-with-0-Sum.csproj", "{BCA41DBC-DF95-4083-9314-5EA2FEB2E437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0-scratchpad", "0-scratchpad\0-scratchpad.csproj", "{71168E15-4C1C-45F8-BC98-039436A6EAA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0-scratchpad", "0-scratchpad\0-scratchpad.csproj", "{71168E15-4C1C-45F8-BC98-039436A6EAA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractDSA-HashMap", "AbstractDSA-HashMap\AbstractDSA-HashMap.csproj", "{F0DCABA6-7916-4424-9B22-3318170C867A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractDSA-HashMap", "AbstractDSA-HashMap\AbstractDSA-HashMap.csproj", "{F0DCABA6-7916-4424-9B22-3318170C867A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP-Flowerbox-problem", "DP-Flowerbox-problem\DP-Flowerbox-problem.csproj", "{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{F0DCABA6-7916-4424-9B22-3318170C867A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0DCABA6-7916-4424-9B22-3318170C867A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0DCABA6-7916-4424-9B22-3318170C867A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
