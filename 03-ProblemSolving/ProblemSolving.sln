@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractDSA-HashMap", "Abst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP-Flowerbox-problem", "DP-Flowerbox-problem\DP-Flowerbox-problem.csproj", "{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP-CoinChange", "DP-CoinChange\DP-CoinChange.csproj", "{D60FC439-6242-44DB-8AA8-18EEEC6690A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60FC439-6242-44DB-8AA8-18EEEC6690A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60FC439-6242-44DB-8AA8-18EEEC6690A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60FC439-6242-44DB-8AA8-18EEEC6690A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60FC439-6242-44DB-8AA8-18EEEC6690A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
