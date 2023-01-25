@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP-CoinChange", "DP-CoinCha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphy-03-AlienWords", "Graphy-03-AlienWords\Graphy-03-AlienWords.csproj", "{A118B5D3-FF57-45DE-A848-D14BABE224BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph-04-Graph-Valid-Tree", "Graph-04-Graph-Valid-Tree\Graph-04-Graph-Valid-Tree.csproj", "{18E743E1-BD29-47EE-905F-CCF7BCEEDBC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A118B5D3-FF57-45DE-A848-D14BABE224BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A118B5D3-FF57-45DE-A848-D14BABE224BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A118B5D3-FF57-45DE-A848-D14BABE224BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E743E1-BD29-47EE-905F-CCF7BCEEDBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E743E1-BD29-47EE-905F-CCF7BCEEDBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E743E1-BD29-47EE-905F-CCF7BCEEDBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E743E1-BD29-47EE-905F-CCF7BCEEDBC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
