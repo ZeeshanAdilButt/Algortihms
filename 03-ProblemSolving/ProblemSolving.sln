@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array-01-Hard-MedianOfSortedArrays", "Array-01-Hard-MedianOfSortedArrays\Array-01-Hard-MedianOfSortedArrays.csproj", "{640DEA95-722D-4925-89F6-A7DE741D7FDA}"
 EndProject
@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0-scratchpad", "0-scratchpa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractDSA-HashMap", "AbstractDSA-HashMap\AbstractDSA-HashMap.csproj", "{F0DCABA6-7916-4424-9B22-3318170C867A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP-Flowerbox-problem", "DP-Flowerbox-problem\DP-Flowerbox-problem.csproj", "{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP-Flowerbox-problem", "DP-Flowerbox-problem\DP-Flowerbox-problem.csproj", "{347FCBBA-43CA-4C3E-B2D3-15A8E6D63792}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP-CoinChange", "DP-CoinChange\DP-CoinChange.csproj", "{D60FC439-6242-44DB-8AA8-18EEEC6690A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP-CoinChange", "DP-CoinChange\DP-CoinChange.csproj", "{D60FC439-6242-44DB-8AA8-18EEEC6690A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphy-03-AlienWords", "Graphy-03-AlienWords\Graphy-03-AlienWords.csproj", "{A118B5D3-FF57-45DE-A848-D14BABE224BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{D60FC439-6242-44DB-8AA8-18EEEC6690A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D60FC439-6242-44DB-8AA8-18EEEC6690A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D60FC439-6242-44DB-8AA8-18EEEC6690A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A118B5D3-FF57-45DE-A848-D14BABE224BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A118B5D3-FF57-45DE-A848-D14BABE224BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A118B5D3-FF57-45DE-A848-D14BABE224BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A118B5D3-FF57-45DE-A848-D14BABE224BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
