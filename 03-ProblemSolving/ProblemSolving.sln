@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings-Group-Anagram", "St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String-Encode-Decode", "String-Encode-Decode\String-Encode-Decode.csproj", "{C4E31455-D16F-4F0F-A79C-32DBF8BCB422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree-Invert_Binary_Tree", "Tree-Invert_Binary_Tree\Tree-Invert_Binary_Tree.csproj", "{971CA398-4D24-4BB7-86E9-56C900578E8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{C4E31455-D16F-4F0F-A79C-32DBF8BCB422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4E31455-D16F-4F0F-A79C-32DBF8BCB422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4E31455-D16F-4F0F-A79C-32DBF8BCB422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971CA398-4D24-4BB7-86E9-56C900578E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971CA398-4D24-4BB7-86E9-56C900578E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971CA398-4D24-4BB7-86E9-56C900578E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971CA398-4D24-4BB7-86E9-56C900578E8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
